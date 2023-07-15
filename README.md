@@ -1,4 +1,4 @@
-### Hi there, my name is Siddharth <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+### Hi there, my name is Siddharth Sinha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sid722&label=Views&color=blue&style=plastic" alt="views" /> </p>
 
 <a href="mailto: sid.sinha722@outlook.com"><img src="outlook.png" width="40px" /></a>
@@ -6,20 +6,13 @@
 <a href="https://www.instagram.com/siddharth_.sinha"><img src="instagram.svg" width="40px" /></a>
 <a href="https://twitter.com/ssinha"><img src="twitter.svg" width="40px" /></a>
 
+## Welcome to my GitHub Page!
+- 🔭 I’m currently interning at Bentley Systems
+- 🌱 I’m exploring the world of Quantum Computing
+- 💼 I'm open to opportunities in the Software Engineering industry
+-  🎓 I'm a senior at the University of Connecticut
 
+## 🛠️ Tools & Technologies
 
-
-<!--
-**Sid722/Sid722** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sid722&show_icons=true&theme=algolia" />
