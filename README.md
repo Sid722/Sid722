@@ -1,4 +1,8 @@
 ### Hi there, my name is Siddharth <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sid722&label=Views&color=blue&style=plastic" alt="siddharth" /> </p>
+
+
+
 
 <!--
 **Sid722/Sid722** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
