@@ -20,8 +20,8 @@
 <code><a href="https://nodejs.org/"><img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" width="60px" /></a></code>
 <code><a href="https://dart.dev/"><img src="https://hackr.io/tutorials/learn-dart/logo/logo-dart?ver=1557984354" width="65px" /></a></code>
 <code><a href="https://flutter.dev/"><img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" width="50px" /></a></code>
-<code><a href="https://azure.microsoft.com/en-us/homepage-b/"><img src="azure-offical.svg" width="60px" /></a></code>
-<code><a href=""><img src="c-lang.svg" width="60px" /></a></code>
+<code><a href="https://azure.microsoft.com/en-us/homepage-b/"><img src="azure-offical.svg" width="50px" /></a></code>
+<code><a href=""><img src="c-lang.svg" width="50px" /></a></code>
 
 
 ## 📈 GitHub Stats
