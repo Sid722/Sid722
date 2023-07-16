@@ -13,6 +13,13 @@
 -  🎓 I'm a senior at the University of Connecticut
 
 ## 🛠️ Tools & Technologies
+<code><a href="https://reactjs.org"><img src="https://github.com/Dhananjayan-PN/Dhananjayan-PN/blob/main/react.png" width="70px" /></a></code>
+<code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" width="65px" /></a></code>
+<code><a href="https://www.typescriptlang.org/"><img src="https://iconape.com/wp-content/png_logo_vector/typescript.png" width="64px" /></a></code>
+<code><a href="https://nodejs.org/"><img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" width="60px" /></a></code>
+<code><a href="https://dart.dev/"><img src="https://hackr.io/tutorials/learn-dart/logo/logo-dart?ver=1557984354" width="65px" /></a></code>
+<code><a href="https://flutter.dev/"><img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" width="50px" /></a></code>
+<code><a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" width="65px" /></a></code>
 
 ## 📈 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sid722&show_icons=true&theme=algolia" />
