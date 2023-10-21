@@ -4,7 +4,6 @@
 <a href="mailto: sid.sinha722@outlook.com"><img src="outlook.png" width="40px" /></a>
 <a href="https://linkedin.com/in/sinha-siddharth"><img src="linkedin.svg" width="40px" /></a>
 <a href="https://www.instagram.com/siddharth_.sinha"><img src="instagram.svg" width="40px" /></a>
-<a href="https://twitter.com/ssinha"><img src="twitter.svg" width="40px" /></a>
 
 ## Welcome to my GitHub Page!
 - 🔭 I’m currently interning at Bentley Systems
